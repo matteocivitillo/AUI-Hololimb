@@ -1,4 +1,4 @@
-#Hololimb - Installation Guide
+# Hololimb - Installation Guide
 
 This guide will help you install **Hololimb** on your **Meta Quest 3** device.
 
@@ -13,7 +13,7 @@ Before installing Hololimb, ensure you have:
 
 ---
 
-## 📥 Download Hololimb
+## Download Hololimb
 1. Go to the **[Releases Page](https://github.com/matteocivitillo/AUI-Hololimb/releases/tag/v1.0)**.
 2. Download the latest **Hololimb.apk** file.
 
@@ -45,28 +45,3 @@ To install the APK on **Meta Quest 3**, follow these steps:
 2. Go to **"Unknown Sources"** in the **Library**.
 3. Launch **Hololimb**.
 4. Follow the on-screen tutorial to begin your therapy session.
-
----
-
-## Troubleshooting
-### **Hololimb does not appear in Unknown Sources**
-Ensure the installation **completed successfully** in SideQuest.  
-Restart your **Meta Quest 3** and check again.
-
-###  **Controller tracking issues**
-Ensure you are in a **well-lit** environment.  
-Restart the headset and try again.
-
-### **App crashes on startup**
-Make sure your **Meta Quest 3 software is up to date**.  
-Try reinstalling Hololimb using SideQuest.
-
----
-
-##  Support
-For any issues, feel free to contact us:  
-**xin.ye@mail.polimi.it, matteo.civitillo@mail.polimi.it, mattia.vicenzotto@mail.polimi.it, dario.jauregui@mail.polimi.it**
-
----
-
-### Enjoy your therapy with Hololimb! 🦾
