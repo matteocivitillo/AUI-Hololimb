@@ -31,6 +31,8 @@ To install and use Hololimb on your **Meta Quest 3**, follow the instructions in
 
 You can also download the latest APK from the **[Releases Section](https://github.com/matteocivitillo/AUI-Hololimb/releases/tag/v1.0)**.
 
+You can watch the Video_demo here **[video](https://youtu.be/7lQBMQKNg14)**
+
 OR
 
 You can dowload the Video_demo from **[Releases Section](https://github.com/matteocivitillo/AUI-Hololimb/releases/tag/v1.0)**.
