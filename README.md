@@ -1,4 +1,4 @@
-# 🦾 Hololimb - Mixed Reality Therapy for Phantom Limb Pain
+# Hololimb - Mixed Reality Therapy for Phantom Limb Pain
 *A Portable Mixed Reality Application for Phantom Limb Pain Management*
 
 ![Meta Quest 3](https://img.shields.io/badge/Platform-Meta%20Quest%203-blue)
