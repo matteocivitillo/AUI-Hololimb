@@ -17,23 +17,23 @@ The app enables **at-home therapy**, improving accessibility beyond clinical set
 _Hololimb is currently in **beta version**, and we are working on further improvements._  
 
 ## Features
-✔ **Full UI implementation**  
-✔ **Improved body tracking** using Meta Quest 3 sensors  
-✔ **Mirror & Static Therapy modes**  
-✔ **Opacity customization** for realistic visualization  
-✔ **Passthrough mode** to blend virtual and real-world elements  
-✔ **Optimized for sessions of 10-30 minutes**  
+-**Full UI implementation**  
+-**Improved body tracking** using Meta Quest 3 sensors  
+-**Mirror & Static Therapy modes**  
+-**Opacity customization** for realistic visualization  
+-**Passthrough mode** to blend virtual and real-world elements  
+-**Optimized for sessions of 10-30 minutes**  
 
 ---
 
-## 🚀 Installation & Usage
+## Installation & Usage
 To install and use Hololimb on your **Meta Quest 3**, follow the instructions in the **[Installation Guide](Docs/Installation_Guide.md)**.
 
-📂 You can also download the latest APK from the **[Releases Section](https://github.com/TUO-NOME/hololimb/releases/latest)**.
+You can also download the latest APK from the **[Releases Section](https://github.com/matteocivitillo/hololimb/releases/latest)**.
 
 ---
 
-## 🏗 Technologies Used
+## Technologies Used
 - **Unity (Editor v6000.0.27f1)**
 - **C# (Visual Studio Code 1.97.1)**
 - **Meta Quest SDK (OpenXR, Body Tracking, Passthrough)**
@@ -41,26 +41,26 @@ To install and use Hololimb on your **Meta Quest 3**, follow the instructions in
 
 ---
 
-👥 **Authors:**  
+**Authors:**  
 - **Xin Ye**   
 - **Matteo Civitillo**   
 - **Mattia Vicenzotto**   
 - **Dario Jauregui Lankenau**   
 
-📧 Contact us at:  
+Contact us at:  
 xin.ye@mail.polimi.it, matteo.civitillo@mail.polimi.it, mattia.vicenzotto@mail.polimi.it, dario.jauregui@mail.polimi.it  
 
-👩‍🏫 **Supervisors:**  
+**Supervisors:**  
 Prof. **Franca Garzotto** | Tutors: **Giulia Valcamonica, Francesco Vona, Daniele Luigi Romano**  
 
 ---
 
-## 📜 License
+## License
 This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
 
 ---
 
-## 🏆 Acknowledgments
+## Acknowledgments
 - Special thanks to **Meta Quest SDK** for body tracking tools.
 - Inspired by **existing VR/AR rehabilitation techniques** for PLP management.
 - Developed with the support of **Politecnico di Milano**.
