@@ -10,7 +10,7 @@
 
 The app enables **at-home therapy**, improving accessibility beyond clinical settings. Users can:
 - **Anchor a virtual limb** and customize its appearance.
-- **Engage in guided exercises** to promote mental reconnection.
+- **Engage in exercises** to promote mental reconnection.
 - **Switch between therapy modes** (Mirror Mode & Static Mode).
 - **Use Passthrough mode** for a semi-augmented reality experience.
 
@@ -22,7 +22,7 @@ _Hololimb is currently in **beta version**, and we are working on further improv
 -**Mirror & Static Therapy modes**  
 -**Opacity customization** for realistic visualization  
 -**Passthrough mode** to blend virtual and real-world elements  
--**Optimized for sessions of 10-30 minutes**  
+-**Optimized for sessions of 15 minutes**  
 
 ---
 
@@ -46,13 +46,13 @@ You can dowload the Video_demo from **[Releases Section](https://github.com/matt
 ---
 
 **Authors:**  
-- **Xin Ye**   
-- **Matteo Civitillo**   
+- **Matteo Civitillo**
+- **Xin Ye**  
 - **Mattia Vicenzotto**   
 - **Dario Jauregui Lankenau**   
 
 Contact us at:  
-xin.ye@mail.polimi.it, matteo.civitillo@mail.polimi.it, mattia.vicenzotto@mail.polimi.it, dario.jauregui@mail.polimi.it  
+matteo.civitillo@mail.polimi.it, xin.ye@mail.polimi.it, mattia.vicenzotto@mail.polimi.it, dario.jauregui@mail.polimi.it  
 
 **Supervisors:**  
 Prof. **Franca Garzotto** | Tutors: **Giulia Valcamonica, Francesco Vona, Daniele Luigi Romano**  
