@@ -30,6 +30,8 @@ _Hololimb is currently in **beta version**, and we are working on further improv
 To install and use Hololimb on your **Meta Quest 3**, follow the instructions in the **[Installation Guide](Docs/Installation_Guide.md)**.
 
 You can also download the latest APK from the **[Releases Section](https://github.com/matteocivitillo/hololimb/releases/latest)**.
+OR
+You can dowload the Video_demo from **[Releases Section](https://github.com/matteocivitillo/hololimb/releases/latest)**.
 
 ---
 
@@ -61,6 +63,5 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for d
 ---
 
 ## Acknowledgments
-- Special thanks to **Meta Quest SDK** for body tracking tools.
 - Inspired by **existing VR/AR rehabilitation techniques** for PLP management.
 - Developed with the support of **Politecnico di Milano**.
